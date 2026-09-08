@@ -54,4 +54,4 @@ This is my walkthrough of the AWS IAM Builder Lab.
 ---
 
 ## Link to My Medium Article
-(Add your Medium link here after you publish)
+https://medium.com/@oresanyakhaleedwalcott/aws-iam-builder-lab-a-beginners-step-by-step-walkthrough-defdf5a8e85c
