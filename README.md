@@ -1,6 +1,5 @@
 # IAM-Builder-Lab
 My IAM Builder Lab walkthrough and policies
-# IAM Builder Lab
 
 This is my walkthrough of the AWS IAM Builder Lab.
 
